@@ -1,6 +1,6 @@
 # Coursera-FinancialAid
 
-**please give me a star if this repo helped you**
+**Please give me a star if this repo helped you**
 
 **How much can you afford to pay?**
 My name is ________ and I am from <Your_Country> . As you may know that our country belongs to a very poor countries . As a student i do not have any special source of income  But things get even worse when you are a student .I live only on my scholarship ($100 per month). It's really impossible for me to pay for this course. Financial Aid will help me take this course without any adverse impact on my monthly essential needs. I want to take this course as I want to complete the Deep learning.ai Specialization on Coursera . I can barely feed myself and pay for a dorm with the money i have . For me it seems impossible to pay for an entire course by myself . My parents can't help me either . So ,I would say that the main reason I ' m asking you for the Financial Aid is the circumstances due to which I happened to born in a very beautiful country – <Your_Country>. Receiving this Financial Aid will open for me a new horizons of the world of Coursera courses , which in turn will help me in future . I really wanted to take this specialization but couldn't afford it hence i decided to apply for financial aid
