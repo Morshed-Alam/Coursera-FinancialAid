@@ -1,7 +1,7 @@
 # Coursera-FinancialAid
 
 **Please give me a star if this repo helped you**<br>
-<h3>Now passed through grammarly premium for a much more better aplication</h3>
+<h3>Edit:Now passed through Grammarly Premium for a much more awesome aplication</h3>
 
 <br>
  <h4> ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿</h4>
