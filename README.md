@@ -1,10 +1,7 @@
 # Coursera-FinancialAid
 
 **Please give me a star if this repo helped you**<br>
-<h3>Edit:Now passed through Grammarly Premium for a much more awesome aplication</h3>
 
-<br>
- <h4> ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿</h4>
  <br>
 
 **How much can you afford to pay?**<br>
