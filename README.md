@@ -1,6 +1,5 @@
 # Coursera-FinancialAid
 
-**Please give me a star if this repo helped you**<br>
 
  <br>
 
